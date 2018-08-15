@@ -1,0 +1,417 @@
+<!DOCTYPE html>
+<html lang="pt-br" >
+
+<head>
+<title>ZOOX Media & Connectivity</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<meta name="author" content="Kayse da Silva Nascimento">
+<meta name="description" content="ZOOX - Melhor empresa de tecnologia para hotéis do Brasil!">
+<meta name="keywords" content="tecnologia, hotel, hotelaria, media, midia, conectividade">
+
+
+<!-- EFEITO REDES SOCIAIS -->
+<link href="css/hover.css" rel="stylesheet" media="all">
+<!-- EFEITO REDES SOCIAIS -->
+
+
+<!-- LINKS NECESSEÇARIOS BOOTSTRAP -->
+<link rel="stylesheet" type="text/css" href="css/bootstrap.css" />
+<link rel="stylesheet" type="text/css" href="css/style.css" />
+<link rel="stylesheet" href="css/font-awesome.min.css" type="text/css">
+
+<script type="text/javascript" src="http://code.jquery.com/jquery-1.10.2.min.js"></script>
+<script type="text/javascript" src="http://code.jquery.com/ui/1.10.3/jquery-ui.js"></script>
+<script type="text/javascript" src="js/bootstrap.min.js"></script>
+<!-- LINKS NECESSEÇARIOS BOOTSTRAP -->
+
+
+<!-- LINK EFEITO APARECER SCROLL -->
+<link rel="stylesheet" href="css/animate.css">
+<!-- LINK EFEITO APARECER SCROLL -->
+
+<!-- Custom CSS -->
+<link rel="stylesheet" href="css/creative.css" type="text/css">
+
+
+<!-- ATIVAR EFEITO APARECER SCROLL -->
+<script src="js/wow.js"></script>
+<script>
+ new WOW().init();
+</script>
+<!-- ATIVAR EFEITO APARECER SCROLL -->
+
+
+<!-- EFEITO ANCORA-->
+<script type="text/javascript">
+	$(document).ready(function(){
+	    $('a').click(function() {
+	            var target = $(this).attr('href');
+	            $('html,body').animate({
+	                    scrollTop: $(target).offset().top
+	            }, 1000);
+	            return false;
+	    });    
+	});
+</script>
+<!-- EFEITO ANCORA-->
+
+
+
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+
+
+
+<!-- EFEITO MENU APARECER SCROLL
+<script type="text/javascript">
+	$(window).scroll(function() {
+
+	    if ($(this).scrollTop()>80)
+	     {
+	        $('.efeito_menu').fadeIn();
+	     }
+	    else
+	     {
+	      $('.efeito_menu').fadeOut();
+	     }
+	});
+</script> -->
+<!-- EFEITO MENU APARECER SCROLL -->
+
+
+<!-- EFEITO APARECER BACKGROUND MENU -->
+<script type="text/javascript">
+	$(document).ready(function(){       
+	   var scroll_start = 0;
+	   var startchange = $('.carousel');
+	   var offset = startchange.offset();
+	    if (startchange.length){
+	   $(document).scroll(function() { 
+	   	//if($(window).width() < 767){ USAR O CÓDIGO SOMENTE QUANDO A TELA CHEGAR EM UMA DETERMINADA LARGURA
+	      scroll_start = $(this).scrollTop();
+	      if(scroll_start > offset.top) {
+	          $(".navbar-default").css('background-color', 'rgba(240, 240, 240, 0.8)');
+	          $(".link_menu").css('color', '#6a6a6a');
+	          $('nav.navbar.navbar-default.navbar-fixed-top').fadeIn();
+
+	       } else {
+	          $('.navbar-default').css('background-color', 'transparent');
+	          $(".link_menu").css('color', '#FFF');
+	       }
+	   	//}
+	   });
+	    }
+	});
+</script>
+<!-- EFEITO APARECER BACKGROUND MENU -->
+
+
+
+<!-- EFEITO PRODUTOS HOVER -->
+<link rel="stylesheet" type="text/css" href="css/style_hover.css" />
+<script src="js/modernizr.custom.97074.js"></script>
+
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+<script type="text/javascript" src="js/jquery.hoverdir.js"></script>
+<script type="text/javascript">
+	$(function() {
+	
+		$(' #da-thumbs > li ').each( function() { $(this).hoverdir(); } );
+
+	});
+</script>
+<!-- EFEITO PRODUTOS HOVER -->
+
+
+<!-- EFEITO MOSTRAR PRODUTOS -->
+<script type="text/javascript">
+$(function() {
+    $("a[rel=esconder]").click(function() {
+        var target = $(this).attr("href");
+        $(".content_area .esconder").css("display", "none");
+        $(target).fadeIn();
+        return false;
+    });
+});
+</script>
+<!-- EFEITO MOSTRAR PRODUTOS -->
+
+
+<!-- ANCORA MENU -->
+<script type="text/javascript">
+	$(document).ready(function(){
+	    $('a').click(function() {
+	            var target = $(this).attr('href');
+	            $('html,body').animate({
+	                    scrollTop: $(target).offset().top
+	            }, 1000);
+	            return false;
+	    });
+	});
+</script>
+<!-- ANCORA MENU -->
+
+
+
+<!-- EFEITO REDES SOCIAIS -->
+<link href="css/demo-page.css" rel="stylesheet" media="all">
+<link href="css/hover.css" rel="stylesheet" media="all">
+
+
+<script>
+	/**
+	 * Used to demonstrate Hover.css only. Not required when adding
+	 * Hover.css to your own pages. Prevents a link from being
+	 * navigated and gaining focus.
+	 */
+	var effects = document.querySelectorAll('.effects')[0];
+
+	effects.addEventListener('click', function(e) {
+		if (e.target.className.indexOf('hvr') > -1) {
+			e.preventDefault();
+			e.target.blur();
+
+		}
+	});
+</script>
+
+<script>
+	!function(d,s,id){
+		var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);
+	}
+}
+(document, 'script', 'twitter-wjs');
+</script>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  //ga('create', 'UA-11991680-4', 'ianlunn.github.io');
+  //ga('send', 'pageview');
+</script>
+
+<!-- EFEITO REDES SOCIAIS -->
+
+</head>
+
+
+
+<body>
+
+<div class="container topo">
+	<div class="row">
+		<div class="col-xs-hidden col-md-3 quadrado_direito"><img src="img/quadradosdireito.png"></div>
+		<div class="col-xs-hidden col-md-6 logowifi_comprar wow pulse">
+			<a href="index.html"><img class="img-responsive" src="img/logo.png" alt="Logo Zoox WiFi"></a>
+		</div>
+		<div class="col-xs-hidden col-md-3 quadrado_esquerdo"><img src="img/quadradosesquerdo.png"></div>
+	</div>
+</div>
+
+
+
+<div class="container cadastro">
+	<div class="row caixa_topo">
+		<div class="col-xs-hidden col-md-1">
+		</div>
+
+		<div class="col-xs-12 col-md-2 caixa">
+			<img class="img-responsive" src="./img/caixa1.png" alt="Caixa">
+		</div>
+
+		<div class="col-xs-hidden col-md-8 cadastro_titulo">
+			<h3>CADASTRO</h3>
+			<hr>
+		</div>
+
+		<div class="col-xs-hidden col-md-1">
+		</div>
+	</div>
+
+	<div class="row">
+		<div class="col-xs-hidden col-md-1"></div>
+		<div class="col-xs-12 col-md-5">
+			<div class="bs-example" data-example-id="basic-forms">
+				<form>
+				  <div class="form-group">
+				    <label class="nome" for="exampleInputEmail1">Empresa</label>
+				    <input type="email" class="form-control" id="exampleInputEmail1" placeholder="Email">
+				  </div>
+				</form>
+			</div>
+		</div>
+		<div class="col-xs-12 col-md-5">
+			<form>
+			  <div class="form-group">
+			    <label class="nome" for="exampleInputEmail1">CNPJ</label>
+			    <input type="email" class="form-control" id="exampleInputEmail1" placeholder="Email">
+			  </div>
+			</form>
+		</div>
+		<div class="col-xs-hidden col-md-1"></div>
+	</div>
+
+	<div class="row">
+		<div class="col-xs-hidden col-md-1"></div>
+		<div class="col-xs-12 col-md-4">
+			<div class="bs-example" data-example-id="basic-forms">
+				<form>
+				  <div class="form-group">
+				    <label class="nome" for="exampleInputEmail1">Endereço</label>
+				    <input type="email" class="form-control" id="exampleInputEmail1" placeholder="Email">
+				  </div>
+				</form>
+			</div>
+		</div>
+		<div class="col-xs-12 col-md-2">
+			<form>
+			  <div class="form-group">
+			    <label class="nome" for="exampleInputEmail1">Número</label>
+			    <input type="email" class="form-control" id="exampleInputEmail1" placeholder="Email">
+			  </div>
+			</form>
+		</div>
+		<div class="col-xs-12 col-md-4">
+			<form>
+			  <div class="form-group">
+			    <label class="nome" for="exampleInputEmail1">País</label>
+			    <input type="email" class="form-control" id="exampleInputEmail1" placeholder="Email">
+			  </div>
+			</form>
+		</div>
+		<div class="col-xs-hidden col-md-1"></div>
+	</div>
+
+	<div class="row">
+		<div class="col-xs-hidden col-md-1"></div>
+		<div class="col-xs-12 col-md-4">
+			<div class="bs-example" data-example-id="basic-forms">
+				<form>
+				  <div class="form-group">
+				    <label class="nome" for="exampleInputEmail1">Estado</label>
+				    <input type="email" class="form-control" id="exampleInputEmail1" placeholder="Email">
+				  </div>
+				</form>
+			</div>
+		</div>
+		<div class="col-xs-12 col-md-2">
+			<form>
+			  <div class="form-group">
+			    <label class="nome" for="exampleInputEmail1">Telefone</label>
+			    <input type="email" class="form-control" id="exampleInputEmail1" placeholder="Email">
+			  </div>
+			</form>
+		</div>
+		<div class="col-xs-12 col-md-4">
+			<form>
+			  <div class="form-group">
+			    <label class="nome" for="exampleInputEmail1">E-mail</label>
+			    <input type="email" class="form-control" id="exampleInputEmail1" placeholder="Email">
+			  </div>
+			</form>
+		</div>
+		<div class="col-xs-hidden col-md-1"></div>
+	</div>
+
+	<div class="row">
+		<div class="col-xs-hidden col-md-1"></div>
+		<div class="col-xs-12 col-md-4">
+			<div class="bs-example" data-example-id="basic-forms">
+				<form>
+				  <div class="form-group">
+				    <label class="nome" for="exampleInputEmail1">Tipo de Negócio</label>
+				    <select class="form-control">
+					  <option>Academia</option>
+					  <option>Bar</option>
+					  <option>Restaurante</option>
+					  <option>Cafeteria</option>
+					  <option>Livraria</option>
+					</select>
+				  </div>
+				</form>
+			</div>
+		</div>
+		<div class="col-xs-hidden col-md-1"></div>
+	</div>
+
+	<div class="row">
+		<div class="col-xs-hidden col-md-1"></div>
+		<div class="col-xs-12 col-md-10">
+			<div class="checkbox">
+			  <label>
+			    <input type="checkbox" id="blankCheckbox" value="option1"> Aceito o <span style="color:#3094B0">termo de uso.</span>
+			  </label>
+			</div>
+		</div>
+		<div class="col-xs-hidden col-md-1"></div>
+	</div>
+
+	<div class="row">
+		<div class="col-xs-hidden col-md-1"></div>
+		<div class="col-xs-12 col-md-10">
+			<button type="submit" class="btn btn-default proximo">Próximo</button>
+		</div>
+		<div class="col-xs-hidden col-md-1"></div>
+	</div>
+</div>
+
+
+
+<div class="container rodape">
+	<div class="row">
+		<div class="col-xs-hidden col-md-1"></div>
+		<!--<div class="col-xs-12 col-md-4 endereco">
+			Rua Victor Civita,66 . Bl 01 . ED 05 . SL 635<br>
+			CEP: 22775-044 . Barra da Tijuca . RJ
+		</div>-->
+
+		<div class="col-xs-12 col-md-5 contato">
+			<span class="glyphicon glyphicon-phone-alt" aria-hidden="true"></span>0800 941 9669<br>
+			<span class="glyphicon glyphicon-envelope" aria-hidden="true"></span>contato@zoox.com.br
+		</div>
+	
+		<div class="col-xs-12 col-md-5 social">
+			<div class="row">
+				<div class="col-xs-hidden col-md-4"></div>
+				<div class="col-xs-3 col-md-2 redesocial">
+					<a href="https://www.facebook.com/Zoox01" target="blank" class="hvr-wobble-vertical"><img src="img/facebook.png" alt="Facebook"></a>
+				</div>
+				<div class="col-xs-3 col-md-2 redesocial">
+					<a href="https://twitter.com/zooxtecnologia" target="blank" class="hvr-wobble-vertical"><img src="img/twitter.png" alt="Twitter"></a>
+				</div>
+				<div class="col-xs-3 col-md-2 redesocial">
+					<a href="http://www.zoox.com.br/site_novo" target="blank" class="hvr-wobble-vertical"><img src="img/linkedin.png" alt="Linkedin"></a>
+				</div>
+				<div class="col-xs-3 col-md-2 redesocial">
+					<a href="http://www.zoox.com.br/site_novo" target="blank" class="hvr-wobble-vertical"><img src="img/googlemais.png" alt="Google +"></a>
+				</div>
+			</div>
+		</div>
+		<div class="col-xs-hidden col-md-1"></div>
+	</div>
+</div>
+
+<div class="container copy">
+	<div class="row">
+		<div class="col-xs-hidden col-md-1"></div>
+		<div class="col-xs-12 col-md-4">
+			<p>Copyrigth © 2015 Zoox Media e Connectivity.</p>
+		</div>
+	
+		<div class="col-xs-12 col-md-4">
+			
+		</div>
+
+		<div class="col-xs-12 col-md-2 logo_zoox">
+			<a href="http://www.zoox.com.br/site_novo" target="blank"><img src="img/logo_zoox.png" alt="Logo ZOOX"></a>
+		</div>
+		<div class="col-xs-hidden col-md-1"></div>
+	</div>
+</div>
+
+</body>
+
+</html>

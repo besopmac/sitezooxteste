@@ -1,0 +1,12 @@
+$font{
+	font-size: 150px;
+}
+
+@mixin titulo{
+	font-size: $font;
+    color: #2a2f4e;
+    font-family: 'Avenir';
+    text-align: center;
+    font-weight: 900;
+    text-transform: uppercase;
+}

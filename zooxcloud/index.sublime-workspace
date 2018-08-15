@@ -1,0 +1,591 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"back",
+				"background-size"
+			],
+			[
+				"ma",
+				"margin-left"
+			],
+			[
+				"in",
+				"inline"
+			],
+			[
+				"te",
+				"text-decoration"
+			],
+			[
+				"f",
+				"float"
+			],
+			[
+				"marg",
+				"margin-right"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"border-r",
+				"border-radius"
+			],
+			[
+				"fl",
+				"float"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"i",
+				"initial"
+			],
+			[
+				"ali",
+				"align-items"
+			],
+			[
+				"a",
+				"auto"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"Al",
+				"alt	Attr"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"c",
+				"class	Attr"
+			],
+			[
+				"text-de",
+				"text-decoration"
+			],
+			[
+				"backg",
+				"background"
+			],
+			[
+				"fle",
+				"flex-start"
+			],
+			[
+				"circu",
+				"circulo1"
+			],
+			[
+				"r",
+				"right"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"st",
+				"style	Attr"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"li",
+				"line-height"
+			],
+			[
+				"s",
+				"src	Attr"
+			],
+			[
+				"h",
+				"href	Attr"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"fot",
+				"font-size"
+			],
+			[
+				"pad",
+				"padding-right"
+			],
+			[
+				"COR",
+				"color"
+			],
+			[
+				"im",
+				"important"
+			],
+			[
+				"backgr",
+				"background-image"
+			],
+			[
+				"json",
+				"json_encode"
+			],
+			[
+				"font-",
+				"font-weight"
+			],
+			[
+				"co",
+				"color"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 97.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/kayse/Desktop/Zoox-verticais/index.html",
+		"/C/Users/kayse/Desktop/index.html",
+		"//Server1/publica/Kayse/TRABALHO/REDESIGN/Site/Zoox-verticais/index.html",
+		"/C/Users/kayse/Desktop/intercity - alterações/index.html",
+		"/C/Users/kayse/Desktop/intercity - alterações/filmes.html",
+		"/C/Users/kayse/Desktop/intercity - alterações/concierge.html",
+		"/C/Users/kayse/Desktop/intercity - alterações/checkout.html",
+		"/C/Users/kayse/Desktop/intercity - alterações/amenidades.html",
+		"/C/Users/kayse/Desktop/intercity - alterações/verpedido_amenidades.html",
+		"/C/Users/kayse/Desktop/intercity - alterações/verpedido.html",
+		"/C/Users/kayse/Desktop/intercity - alterações/veiculos.html",
+		"/C/Users/kayse/Desktop/intercity - alterações/sinopse.html",
+		"/C/Users/kayse/Desktop/intercity - alterações/manutencao.html",
+		"/C/Users/kayse/Desktop/intercity - alterações/pesquisa.html",
+		"/C/Users/kayse/Desktop/intercity - alterações/roomservice.html",
+		"/C/Users/kayse/Desktop/intercity - alterações/servicos.html",
+		"/C/Users/kayse/Desktop/intercity - alterações/css/style.css",
+		"/C/Users/kayse/Desktop/Zoox-WiFi-Landing/index.html",
+		"/C/Users/kayse/Desktop/Zoox-verticais/css/style.css",
+		"/C/Users/kayse/Desktop/teste/index.html",
+		"/C/Users/kayse/Desktop/intercity - alterações/assets/jarallax/jarallax.js",
+		"/C/Users/kayse/Desktop/intercity - alterações/assets/mobirise/css/style.css",
+		"/C/Users/kayse/Desktop/intercity - alterações/css/arrow-left.svg",
+		"/C/Users/kayse/Desktop/intercity - alterações/css/arrow-right.svg",
+		"/C/Users/kayse/Desktop/intercity - alterações/assets/bootstrap/css/bootstrap.min.css",
+		"/C/Users/kayse/Desktop/km-vantagens/tela3.html",
+		"/C/Users/kayse/Desktop/km-vantagens/tela2.html",
+		"/C/Users/kayse/Desktop/intercity - alterações/veiculo.html",
+		"/C/Users/kayse/Desktop/intercity - alterações/css/demo.css",
+		"/C/Users/kayse/Desktop/intercity/index.html",
+		"/C/Users/kayse/Desktop/intercity/css/style.css",
+		"/C/Users/kayse/Desktop/km-vantagens/tela6.html",
+		"/C/Users/kayse/Desktop/km-vantagens/css/materialize.css",
+		"/C/Users/kayse/Desktop/km-vantagens/css/style.css",
+		"/C/Users/kayse/Desktop/km-vantagens/tela5.html",
+		"/C/Users/kayse/Desktop/km-vantagens/tela4.html",
+		"/C/Users/kayse/Desktop/km-vantagens/tela1.html",
+		"/C/Users/kayse/Desktop/km-vantagens/index.html",
+		"/C/Users/kayse/Desktop/Zoox-verticais/css/ajusts.css",
+		"/C/Users/kayse/Desktop/Zoox-html/css/style.css",
+		"/C/Users/kayse/Desktop/Zoox-html/index.html",
+		"/C/Users/kayse/Desktop/Zoox-html/modal.html",
+		"/C/Users/kayse/Desktop/intercity/checkout.html",
+		"/C/Users/kayse/Desktop/intercity/concierge.html",
+		"/C/Users/kayse/Desktop/intercity/filmes.html",
+		"/C/Users/kayse/Desktop/intercity/amenidades.html",
+		"/C/Users/kayse/Desktop/intercity/verpedido_amenidades.html",
+		"/C/Users/kayse/Desktop/intercity/verpedido.html",
+		"/C/Users/kayse/Desktop/intercity/veiculo.html",
+		"/C/Users/kayse/Desktop/intercity/sinopse.html",
+		"/C/Users/kayse/Desktop/intercity/servicos.html",
+		"/C/Users/kayse/Desktop/intercity/roomservice.html",
+		"/C/Users/kayse/Desktop/intercity/pesquisa.html",
+		"/C/Users/kayse/Desktop/intercity/assets/mobirise/css/style.css",
+		"/C/Users/kayse/Desktop/intercity/manutencao.html",
+		"/C/Users/kayse/Desktop/intercity/teste.html",
+		"/C/Users/kayse/Desktop/jquery-bar-rating-master (1)/jquery-bar-rating-master/examples/js/examples.js",
+		"/C/Users/kayse/Desktop/jquery-bar-rating-master (1)/jquery-bar-rating-master/examples/index.html",
+		"/C/Users/kayse/Desktop/intercity/css/ratingbar.css",
+		"/C/Users/kayse/Desktop/intercity/js/ratingbar.js",
+		"/C/Users/kayse/Desktop/jquery-bar-rating-master/jquery-bar-rating-master/examples/js/examples.js",
+		"/C/Users/kayse/Desktop/jquery-bar-rating-master/jquery-bar-rating-master/examples/index.html",
+		"/C/Users/kayse/Desktop/intercity/css/style1.css",
+		"/C/Users/kayse/Desktop/intercity/assets/bootstrap/css/bootstrap.min.css",
+		"/C/Users/kayse/Desktop/intercity/css/demo.css",
+		"/C/Users/kayse/Desktop/DirectionAwareHoverEffect (1)/DirectionAwareHoverEffect/index.html",
+		"/C/Users/kayse/Desktop/index.php",
+		"/C/Users/kayse/Desktop/ingles.php",
+		"/C/Users/kayse/Desktop/espanhol.php",
+		"/C/Users/kayse/Desktop/intercity/assets/mobirise/css/mbr-additional.css",
+		"/C/Users/kayse/Desktop/menu/index.html",
+		"/C/Users/kayse/Desktop/zoox/assets/mobirise/css/style.css",
+		"/C/Users/kayse/Desktop/zoox/index.html",
+		"/C/Users/kayse/Desktop/intercity_mobirise/index.html",
+		"/C/Users/kayse/Desktop/zoox/zoox.rar",
+		"/C/Users/kayse/Desktop/intercity/css/horizon-theme.min.css",
+		"/C/Users/kayse/Desktop/zoox/css/style.css",
+		"/C/Users/kayse/Desktop/zoox/assets/bootstrap/css/bootstrap.min.css",
+		"/C/Users/kayse/Desktop/zoox/assets/mobirise-slider/style.css",
+		"/C/Users/kayse/Desktop/zoox/assets/mobirise/css/mbr-additional.css",
+		"//Server1/publica/Kayse/TRABALHO/SITE NOVO ZOOX/site 2015/site_zoox_novo/index.html",
+		"//Server1/publica/Kayse/TRABALHO/SITE NOVO ZOOX/site 2015/site_zoox_novo/css/style.css",
+		"/C/Users/kayse/Desktop/zoox/assets/mobirise/js/script.js",
+		"/C/Users/kayse/Desktop/InternalBootstrapHotspot/login.html",
+		"/C/Users/kayse/Desktop/hotspot/login.html",
+		"/C/Users/kayse/Desktop/hotspot/hotspot/login.html",
+		"/C/Users/kayse/Desktop/hotspot/hotspot/css/style.css",
+		"/C/Users/kayse/Desktop/zooxwifi/index.html",
+		"/C/Users/kayse/Desktop/comprar2.html",
+		"/C/Users/kayse/Desktop/comprar1.html",
+		"/C/Users/kayse/Desktop/comprar4.html",
+		"/C/Users/kayse/Desktop/comprar3.html",
+		"/C/Users/kayse/Desktop/email.php",
+		"/C/wamp/www/wp/wp-content/themes/socute-free/home.php",
+		"/C/wamp/www/wp/wp-content/themes/socute-free/index.php",
+		"/C/wamp/www/ps/themes/default-bootstrap/js/modules/homeslider/js/homeslider.js",
+		"/C/wamp/www/ps/themes/default-bootstrap/js/modules/homeslider/js/index.php",
+		"/C/wamp/www/ps/themes/default-bootstrap/header.tpl",
+		"/C/wamp/www/ps/themes/default-bootstrap/index.tpl",
+		"/C/wamp/www/ps/themes/default-bootstrap/index.php",
+		"/C/wamp/www/ps/themes/index.php",
+		"/C/wamp/www/ps/themes/live_edit.tpl",
+		"/C/wamp/www/ps/themes/default-bootstrap/layout.tpl",
+		"/C/wamp/www/ps/themes/default-bootstrap/css/modules/blocktopmenu/css/superfish-modified.css",
+		"/C/wamp/www/ps/themes/default-bootstrap/css/modules/blockcontact/blockcontact.css",
+		"/C/wamp/www/ps/themes/default-bootstrap/css/modules/blockcart/blockcart.css",
+		"/C/wamp/www/ps/themes/default-bootstrap/css/modules/blocksearch/blocksearch.css",
+		"/C/wamp/www/ps/themes/default-bootstrap/css/modules/blocklanguages/blocklanguages.css",
+		"/C/wamp/www/ps/themes/default-bootstrap/css/modules/blockuserinfo/blockuserinfo.css",
+		"/C/wamp/www/ps/themes/default-bootstrap/css/global.css",
+		"/C/wamp/www/ps/modules/blocksearch/blocksearch.css",
+		"/C/wamp/www/ps/modules/blocksearch/img/index.php",
+		"/C/wamp/www/ps/css/index.php",
+		"/C/wamp/www/ps/index.php",
+		"/C/wamp/www/ps/themes/default-bootstrap/css/stores.css",
+		"/C/wamp/www/ps/themes/default-bootstrap/css/index.php",
+		"/C/wamp/www/ps/css/retro-compat.css.php",
+		"/C/Users/kayse/Desktop/gc_hospital/login.html",
+		"/C/Users/kayse/Desktop/gc_varejo/login.html",
+		"/C/Users/kayse/Desktop/gc_shopping/login.html",
+		"/C/Users/kayse/Desktop/gc_varejo/cadastro.html",
+		"/C/Users/kayse/Desktop/gc_hospital/cadastro.html",
+		"/C/Users/kayse/Desktop/gc_shopping/cadastro.html",
+		"/C/Users/kayse/Desktop/gc_varejo/index.html",
+		"/C/Users/kayse/Desktop/gc_shopping/index.html",
+		"/C/Users/kayse/Desktop/gc_hospital/index.html",
+		"/C/Users/kayse/Desktop/gc_varejo/css/style.css",
+		"/C/Users/kayse/Desktop/gc_varejo/apoio.html"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"C:\\wamp\\www\\ps\\themes",
+			"C:\\wamp\\www\\ps",
+			"C:\\Users\\kayse\\Desktop\\zoox"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"servicos.html",
+			"arrows",
+			".mbr-plan__box",
+			"10px",
+			"home",
+			"jaralla",
+			"644",
+			"button_azul_home",
+			"mbr-navbar__section",
+			"azul",
+			"nome",
+			"nome_home",
+			"concierge",
+			"bemvindo",
+			"conjunto_circulos_home",
+			"circulos_home",
+			"nome",
+			"yoo2",
+			"conj_buttons",
+			"conj_b",
+			"menor",
+			"nome",
+			"horizon-item",
+			"azul",
+			"mbr-added",
+			"h4",
+			"lobby bar",
+			"Lobby bar",
+			"lobby bar",
+			"rede",
+			"investe",
+			"imediata",
+			"bl_contatos",
+			"sl",
+			"checkout",
+			"finalizar",
+			"check out",
+			"checkout",
+			"check",
+			"contestar",
+			"check",
+			"font face",
+			"waves",
+			"text-lighten-2",
+			"cpf",
+			";\n",
+			"light",
+			"field",
+			"0px",
+			"carousel-",
+			"investir",
+			"faleconosco",
+			"planos",
+			"9",
+			"enviar",
+			"form",
+			"20px",
+			"banner_amenidades",
+			"amenidades",
+			"detalhes",
+			"concierge-img",
+			"             \n",
+			"filmes",
+			"locali",
+			"filmes_sinopse",
+			"sinopse",
+			"comprar",
+			"button",
+			"preco_prato",
+			"email",
+			"item",
+			"ver",
+			"mbr-navbar__container",
+			"icones",
+			"mbr",
+			"horizon",
+			"horizon-outer",
+			"horizon",
+			"face",
+			"{\n",
+			"bemvindo",
+			"site",
+			"noticias",
+			"notícias",
+			"med",
+			"26",
+			".mbr-section__container--first",
+			"text-align",
+			"text-align: justify",
+			"text-align: justif",
+			"letter-spacing",
+			"preco",
+			"circulo",
+			"invest",
+			"34px",
+			"\">",
+			";\n",
+			"active",
+			"depo",
+			"cli",
+			"rede soco",
+			"\n.",
+			"hover",
+			".btn-default.inverse:hover",
+			".btn-default.inverse, .btn-inverse .btn-default",
+			"planos",
+			"planos:hover",
+			"conheca",
+			"conheça",
+			":hover",
+			".planos:hover",
+			".planos",
+			"conheça os planos",
+			"mbr-buttons__link",
+			"mbr-buttons__link btn text-white",
+			"hr",
+			"}\n",
+			"mobiri",
+			"mo",
+			"www",
+			"baixar",
+			"titulo",
+			"sub",
+			"titulo",
+			"form-control",
+			"mbr-plan__details",
+			".mbr-plan__details",
+			"precoc"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Users\\kayse\\Desktop\\site\\index.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 217.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

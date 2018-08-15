@@ -1,0 +1,761 @@
+body{
+	color: #8c8c8c;
+  font-family: ubuntu;
+  font-size: 15px
+}
+
+
+@font-face {
+  font-family: "ubuntu";
+  src: url("../font/Ubuntu-L.ttf"); /* para IE */
+
+
+  src: local("ubuntu"), url("../font/Ubuntu-L.ttf") format("opentype");
+  font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+  font-family: "raleway";
+  src: url("../font/Raleway-Regular.ttf"); /* para IE */
+
+
+  src: local("amatraca"), url("../font/Raleway-Regular.ttf") format("opentype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+
+.sobre{
+    line-height: 20px;
+}
+
+.topo_logo{
+    width: 100%;
+    margin: auto;
+}
+
+.topo{
+  width: 100%;
+  margin: 0px;
+}
+
+.quadrado_esquerdo{
+  padding: 0px;
+}
+
+.quadrado_esquerdo img{
+  padding: 0px;
+  float: right;
+}
+
+.quadrado_direito{
+  padding: 0px;
+}
+
+.wifi {
+  margin: auto;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  animation-duration: 1000ms;
+  animation-fill-mode: both;
+}
+
+.euquero {
+    margin-bottom: 20px;
+}
+
+.bg{
+  background: url(../img/bg.jpg) 50% 0 fixed;
+  height: auto;
+  margin: 0 auto;
+  width: 100%;
+  position: relative;
+  padding: 80px 0;
+}
+
+.bg_euquero {
+  background-image: url(../img/bg_preco.jpg);
+    background-repeat: no-repeat;
+    position: relative;
+  width: 100%;
+  min-height: auto;
+  text-align: center;
+  color: #fff;
+  /* background-image: url(../img/header.jpg); */
+  background-position: center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  /* max-height: 100%; */
+  margin-bottom: 20px;
+  padding-bottom: 30px;
+}
+
+
+.container.bg{
+  background-image: url("../img/bg.jpg");
+  position: relative;
+  width: 100%;
+  min-height: auto;
+  text-align: center;
+  color: #fff;
+  /* background-image: url(../img/header.jpg); */
+  background-position: center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  /* max-height: 100%; */
+}
+
+
+.btn-default.button1{
+	background-color: rgba(194, 208, 8, 0.9);
+	color: #fff;
+	border-radius: 50px 50px 50px 50px;
+	border-color: #7D8A91;
+}
+
+.btn-default.button1:hover, .btn-default:focus{
+  background-color: rgba(227, 243, 12, 0.9);
+}
+
+.btn-default.button2{
+	background-color: rgba(68, 163, 189, 0.9);
+	color: #fff;
+	border-radius: 50px 50px 50px 50px;
+	border-color: #7D8A91;
+}
+
+.btn-default.button2:hover, .btn-default:focus{
+  background-color: rgba(86, 219, 255, 0.9);
+  color: #fff;
+  border-radius: 50px 50px 50px 50px;
+  border-color: #7D8A91;
+}
+
+
+
+.button{
+  margin-top: 30px;
+  margin-bottom: 60px;
+}
+
+.logo_wifi {
+  margin-top: 150px;
+}
+
+.zooxwifi p{
+    font-size: 50px;
+    font-family: raleway;
+ }
+
+.zooxwifi{
+  text-align: center;
+  margin-top:60px;
+}
+
+.dashboard_titulo{
+    text-align: center;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+ .dashboard_titulo p{
+    font-size: 50px;
+    font-family: raleway;
+ }
+
+.logowifi_comprar img{
+  margin: auto;
+}
+
+.titulo{
+  text-align: center;
+  font-size: 20px;
+  margin-top: 20px;
+  color: #fff;
+}
+
+.titulo_aonde p{
+  text-align: center;
+  font-size: 25px;
+  margin-top: 20px;
+}
+
+.valor_plano{
+  color: #FFC600;
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.valores{
+  text-align: center;
+  font-size: 22px;
+  color: #F9FF00;
+  margin-bottom: 20px;
+}
+
+.titulo_preco{
+  text-align: center;
+  margin-top:60px;
+}
+
+.titulo_preco p{
+  font-size: 50px;
+  font-family: raleway;
+ }
+
+.titulo_aonde{
+  text-align: center;
+  margin-top:60px;
+}
+
+.titulo_aonde p{
+    font-size: 60px;
+ }
+
+.linha_oquee{
+    margin-top: 70px;
+}
+
+.linha_oquee p b {
+    color: #6BC0D0;
+}
+
+.btn-primary-lista {
+    color: #fff;
+}
+
+.btn-primary-lista:hover {
+    color: #FFF81A;
+}
+
+.formulario{
+  text-align: left;
+}
+
+section {
+    padding: 0px;
+}
+
+.botao_euquero{
+  border-radius: 0px !important;
+  background-color: #FFA200 !important;
+}
+
+
+#facilidade{
+    background: url(../img/facilidades.jpg) 50% 0 fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: auto;
+    margin: 0 auto;
+    width: 100%;
+    position: relative;
+    padding: 0px;
+}
+
+.publicidade{
+  color:#fff;
+  text-align: center;
+}
+
+.publicidade ul {
+    list-style: none;
+    display: inline-flex;
+    padding: 0;
+    margin-bottom: 30px;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.glyphicon-stop {
+    color: #FFF709;
+    margin-right: 20px;
+}
+
+.informativo{
+    font-size: 20px;
+    line-height: 359px;
+}
+
+.proximo {
+    background-color: #51C774 !important;
+    color: #fff !important;
+    text-transform: none !important;
+}
+
+.publicidade p{
+  margin-top: 40px;
+  font-size: 50px;
+}
+
+.preco1{
+    border-radius: 20px 20px 20px 20px;
+    border: 1px solid #A5454A;
+    margin-top: 20px;
+    background-color: rgba(226, 3, 11, 0.8);
+}
+
+.dash img{
+  margin: auto;
+  padding-bottom: 30px;
+}
+
+.preco1:hover{
+  background-color: rgba(255, 0, 9, 0.55);
+}
+
+.preco3{
+    border-radius: 20px 20px 20px 20px;
+    border: 1px solid #8F6191;
+    margin-top: 20px;
+    background-color: rgba(187, 15, 146, 0.8);
+}
+
+.preco3:hover{
+  background-color: rgba(255, 1, 194, 0.4);
+}
+
+
+.preco4{
+    border-radius: 20px 20px 20px 20px;
+    border: 1px solid #128C02;
+    margin-top: 20px;
+    background-color: rgba(43, 140, 9, 0.8);
+}
+
+.preco4:hover{
+  background-color: rgba(56, 214, 0, 0.4);
+}
+
+.preco_2{
+  background-color: rgba(6, 113, 168, 0.8);
+  border-radius: 20px 20px 20px 20px;
+  border: 1px solid #3E96C3;
+  margin-top: 20px;
+  color: #fff;
+}
+
+.preco_2:hover{
+  background-color: rgba(4, 166, 249, 0.5);
+}
+
+.btn-primary.maisvendido {
+  color: #252525;
+  background-color: #f5e702;
+  border-color: #f5e702;
+  
+}
+
+.logowifi_comprar {
+    margin-bottom: 50px;
+}
+
+.caixa_topo {
+    margin-bottom: 35px;
+}
+
+.caixa_topo img {
+    margin: auto;
+}
+
+.cadastro{
+  background-color: #f2fcff;
+  width: 100%;
+  margin-top: 20px;
+  padding-top: 40px;
+}
+
+.star{
+  text-align: center;
+  font-size: 18px;
+}
+
+.nome{
+  font-weight: inherit;
+}
+
+.proximo{
+  float: right;
+  margin-bottom: 60px;
+}
+
+.cinza{
+    background-color: #F5F5F5 !important;
+    text-align: center;
+}
+
+.azul{
+    background-color: #F5F5F5 !important;
+    text-align: center;
+}
+
+.branco{
+    text-align: center;
+}
+
+.azul{
+  background-color: rgba(14, 88, 150, 0.5) !important;
+}
+
+span.glyphicon.glyphicon-ok {
+  color: rgb(245, 231, 2);
+  margin-right: 10px;
+  float: right;
+}
+
+span.glyphicon.glyphicon-remove {
+  color: red;
+  margin-right: 10px;
+  text-align: center;
+}
+
+.mosaico{
+  margin-top: 60px;
+}
+
+.estab {
+    margin: auto;
+}
+
+#oquee {
+    background-color: #EFFCFF;
+    padding-bottom: 60px;
+}
+
+.m1{
+  background-color: #b7b7b7;
+  color: #fff;
+  padding: 10px 10px 10px 10px;
+}
+
+.m2{
+  background-color: #c53a14;
+  color: #fff;
+  padding: 10px 10px 10px 10px;
+}
+
+.m3{
+  background-color: #00728f;
+ color: #fff;
+  padding: 10px 10px 10px 10px;
+}
+
+.m4{
+  background-color: #54a2b6;
+  color: #fff;
+  padding: 10px 10px 10px 10px;
+}
+
+.m5{
+  background-image: url("../img/m5.jpg");
+  height: 126px;
+  background-size: cover;
+  
+}
+
+.m6{
+  background-color: #161616;
+  color: #fff;
+  padding: 10px 10px 10px 10px;
+}
+
+.caixa{
+  margin: 10px 0px;
+}
+
+.valor{
+    text-align: center;
+  font-size: 20px;
+  margin-bottom: 20px;
+}
+
+.valor_mensal{
+    text-align: center;
+  font-size: 20px;
+  margin-bottom: 26px;
+  margin-top: 26px;
+}
+
+
+.item{
+  padding-top: 10px;
+  padding-bottom: 10px;
+  line-height: 20px;
+}
+
+.itens{
+    padding: 0;
+    color: #fff;
+}
+
+
+.itens ul li{
+    text-align: left;
+}
+
+.plano{
+  font-size: 26px;
+}
+
+.preco1 .itens_plano1{
+  background-color: rgba(137, 49, 47, 0.5) !important;
+}
+
+.preco3 .itens_plano1 {
+  background-color: rgba(126, 68, 145, 0.5) !important;
+}
+
+.preco4 .itens_plano1 {
+  background-color: rgba(66, 177, 27, 0.4) !important;
+}
+
+#desativado {
+  color: #C5C5C5;
+}
+
+#desativado_azul{
+  color:#14809B;
+}
+
+.list-group-item {
+    background-color: transparent;
+  margin-left: -1px;
+  margin-right: -1px;
+    border: transparent;
+}
+
+.social{
+  margin-top: 16px;
+}
+
+.botao{
+  margin-bottom: 20px;
+}
+
+.botao .btn-lg{
+  font-size: 15px;
+}
+
+
+
+span.glyphicon.glyphicon-ok.amarelo{
+  color:#f5e702;
+}
+
+.glyphicon-star {
+  color: #F5E702;
+  margin-right: 20px;
+  margin-top: 25px;
+}
+
+.mapa{
+  width: 100%;
+}
+
+
+.rodape{
+  background-color: #ebebeb;
+  width: 100%;
+  padding-bottom: 10px;
+  padding-top: 10px;
+}
+
+.endereco{
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+.copy{
+  width: 100%;
+  background-color: #000;
+  font-size: 12px;
+  color: #fff;
+  }
+
+.copy p{
+    margin-top: 10px;
+    margin-bottom: 0px;
+    text-align: left;
+}
+
+.logo_zoox {
+    text-align: right;
+}
+
+.logo_zoox img{
+  margin-bottom: 10px;
+  margin-top: 10px;
+}
+
+.redesocial{
+  text-align: right;
+}
+
+
+.glyphicon.glyphicon-phone-alt {
+    margin-right: 15px;
+}
+
+.glyphicon.glyphicon-envelope{
+  margin-right: 15px;
+}
+
+.contato{
+  margin-bottom: 10px;
+  margin-top: 10px;
+}
+
+.content {
+    display: none;
+}
+
+.content:first-child {
+    display: block;
+}
+
+@media (min-width: 768px){
+  .container.bg {
+    min-height: 100%;
+  }
+}
+
+@media (max-width: 1200px){
+  .m5 {
+    height: 140px;
+  }
+}
+
+
+@media (max-width: 768px){
+  .logo_buttons {
+    position: inherit;
+    top: 0;
+  }
+}
+
+@media screen and (max-width: 991px) {
+  .cadastro_titulo{
+    text-align: center;
+  }
+
+  .logo_wifi {
+    margin-top: 60px;
+  }
+
+  #valores {
+    background: url(../img/bg_preco.jpg) 50% 0 fixed !important;
+  }
+  .enviar{
+  	text-align: center;
+  }
+
+  .descricao1,.descricao2,.descricao3,.descricao4{
+  	text-align: center;
+  }
+
+  .descricao_media1,.descricao_media2,.descricao_media3,.descricao_media4 {
+	text-align: center;
+  }
+
+  .logo{
+    padding-left: 30px;
+  }
+
+  .endereco{
+    text-align: center;
+  }
+
+  .contato{
+    text-align: center;
+  }
+
+  .redesocial{
+  text-align: center;
+  }
+
+  .logo_zoox {
+      text-align: right !important;
+  }
+
+  .logo_zoox img {
+  text-align: center; 
+  }
+
+  .quadrado_direito,.quadrado_esquerdo{
+    display: none;
+  }
+
+  .linha_oquee{
+    text-align: center;
+  }
+
+  .linha_oquee img {
+    margin: auto;
+    margin-bottom: 25px;
+  }
+
+  .informativo {
+    font-size: 25px;
+    line-height: 0px;
+    margin: 50px 0px;
+  }
+
+
+  .publicidade ul {
+    display: inline-block;
+  }
+
+}
+
+  .nav-tabs {
+    border-bottom: transparent;
+}
+
+  .nav-tabs > li.active > a, .nav-tabs > li.active > a:hover, .nav-tabs > li.active > a:focus {
+      color: rgba(251, 243, 0, 0.84);
+      cursor: default;
+      background-color: transparent;
+      border: none;
+      border-bottom-color: transparent;
+  }
+
+.nav-tabs > li > a, .nav-tabs > li > a:hover, .nav-tabs > li > a:focus {
+      color: #fff;
+      cursor: default;
+      background-color: transparent;
+      border: none;
+      border-bottom-color: transparent;
+  }
+
+
+    #valores { 
+      background: url(../img/bg_preco1.jpg) 50% 0 fixed; 
+      height: auto;  
+      margin: 0 auto; 
+      width: 100%; 
+      position: relative; 
+      padding: 80px 0;
+    }
+    
+    #facilidades{
+      background: url(../img/facilidades.jpg) 50% 0 fixed;
+      height: auto;  
+      margin: 0 auto; 
+      width: 100%; 
+      position: relative; 
+      padding: 0px;
+    }
+
+    .media-object { 
+      width: 64px; height: 64px; padding-bottom: 30px 
+    }
+
+    .moldura{
+      border-radius: 20px 20px;
+      background-color: rgba(0,0,0,0.6);
+      padding: 40px;
+    }

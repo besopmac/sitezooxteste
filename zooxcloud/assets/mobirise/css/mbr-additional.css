@@ -1,0 +1,42 @@
+#menu-0 .mbr-brand__name {
+  font-size: 16px;
+}
+
+/*
+#menu-0.mbr-navbar--stuck .mbr-navbar__section {
+    background: -webkit-linear-gradient(bottom, rgba(255, 255, 255, 0), rgba(0, 0, 0, 0.62));
+    background: -o-linear-gradient(bottom, rgba(255,0,0,0), rgba(0,0,0,2));
+    background: -moz-linear-gradient(bottom, rgba(255,0,0,0), rgba(0,0,0,2));
+    background: linear-gradient(bottom, rgba(255,0,0,0), rgba(0,0,0,2));*/ /* FF3.6-15 */ /* Chrome10-25,Safari5.1-6 
+    /*background: -webkit-linear-gradient(rgba(0,0,0,1) 0%, rgba(0,0,0,0.5) 50%, rgba(0,0,0,0) 100%);
+    background: -o-linear-gradient(rgba(0,0,0,1) 0%, rgba(0,0,0,0.5) 50%, rgba(0,0,0,0) 100%);
+    background: linear-gradient(rgba(0,0,0,1) 0%, rgba(0,0,0,0.5) 50%, rgba(0,0,0,0) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ 
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#000000', endColorstr='#00000000',GradientType=0 ); IE6-9 
+}*/
+#msg-box3-17 .mbr-header .mbr-header__text {
+  text-align: center;
+}
+#msg-box3-17 .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
+#msg-box4-19 .mbr-header__text {
+  color: #ffffff;
+}
+#msg-box4-19 .mbr-header__subtext {
+  color: #ffffff;
+}
+#msg-box4-19 .mbr-article {
+  color: #ffffff;
+}
+#msg-box3-20 .mbr-header .mbr-header__text {
+  text-align: center;
+}
+#msg-box3-20 .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
+#msg-box3-26 .mbr-header .mbr-header__text {
+  text-align: center;
+}
+#msg-box3-26 .mbr-header .mbr-header__subtext {
+  text-align: center;
+}

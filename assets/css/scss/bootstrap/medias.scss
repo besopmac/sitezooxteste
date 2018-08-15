@@ -1,0 +1,779 @@
+/* Comportamento responsivo */
+
+@media (max-width: 2560px){ 
+
+    .intro-section-box{
+      height: 100vh;
+    }
+
+    .container-intro{
+      padding-bottom: 0;
+      position: relative;
+      top: 30%;
+      padding-top: 0;
+    }
+
+    .thumbnail .caption{
+        padding: 10px 28px;
+    }
+
+    .caption p{
+        font-size: 18px;
+    }
+
+    .timeline{
+        padding: 240px 0;
+    }
+
+    .year-box{
+      top: 40%;
+    }
+
+    .form-contato-box{
+        margin: 75px 265px;
+    }
+
+    #googlemaps {
+      height: 880px;
+    }
+
+    .dedicacao-section-box{
+        padding-top: 150px;
+        padding-bottom: 150px;
+    }
+
+    .container-intro-interna{
+      top: 25%;
+    }
+
+    .middle-content-gia p {
+      max-width: 56%;
+    }
+
+}
+
+@media (max-width: 1920px){
+
+    .thumbnail .caption{
+        padding: 10px 20px;
+    }
+
+    .caption p{
+        color: #2a2f4e;
+        font-family: 'Avenir';
+        font-weight: 500;
+        font-size: 13px;
+    }
+
+    .container-intro{
+      top: 20%;
+    }
+
+    /* Timeline */
+
+   .timeline{
+        padding: 660px 0;
+    }
+
+    .year-box{
+      top: 43%;
+    }
+
+    #googlemaps { 
+      /* height: 685px; */
+      height: 975px; 
+      width: 100%; 
+      position:absolute; 
+      left: 0; 
+      z-index: 0; /* Set z-index to 0 as it will be on a layer below the contact form */
+    }
+     
+    .form-contato-box { 
+      z-index: 1; /* The z-index should be higher than Google Maps */
+      padding: 30px 80px;
+      background: rgba(42, 47, 78, .9);
+      height: auto;
+      color: white;
+      margin: 120px 90px;
+    }
+
+    .container-intro-interna{
+      top: 20%;
+    }
+
+    .middle-content-gia p {
+      max-width: 75%;
+    }
+
+}
+
+@media (max-width: 1440px){
+    
+    .container-intro{
+        top: 20%;
+    }
+
+    .logo-box{
+        margin-bottom: 30px;
+    }
+
+    .year-box{
+      top: 43%;
+    }
+
+    .modal-dialog{
+        width: 30%;
+    }
+
+    .btn-intro-box{
+        margin-top: 40px;
+    }
+
+    .thumbnail .caption{
+        padding: 10px 11px;
+    }
+
+    .client{
+        /*padding: 0 30px;*/
+    }
+
+    .form-contato-box{
+        margin: 85px 50px;
+    }
+
+    .dedicacao-section-box{
+        padding-top: 150px;
+        padding-bottom: 150px;
+    }
+
+    .title-form-box h3{
+        font-size: 42px;
+        margin: 20px 0;
+    }
+
+    .btn-form{
+        margin-bottom: 0px;
+    }
+
+    #googlemaps { 
+      height: 820px;
+    }
+
+    .container-intro-interna{
+      padding-top: 0;
+      padding-bottom: 0;
+    }
+
+    .middle-content-wifi-box{
+      min-height: 590px;
+    }
+
+    .text-content-wifi-box p{
+      max-width: 85%;
+    }
+
+    .topicos-big {
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+
+    .topicos-wifi-big{
+      padding-top: 70px;
+    }
+
+    .title-topico-box h5{
+      font-size: 18px;
+    }
+
+    .text-topico-box p{
+      padding: 0 22px;
+      font-size: 14px;
+    }
+
+    .topicos-small-intern .text-topico-box p{
+      padding: 0 54px;
+    }
+
+    .topicos-small{
+      margin: 0 110px!important;
+      padding-top: 40px;
+    }
+
+    .topicos-wifi-big .img-topico-box img{
+      width: 25%;
+    }
+
+    .middle-content-gia p{
+      font-size: 20px;
+      max-width: 83%;
+      margin-top: 30px;
+      margin-bottom: 30px;
+    }
+
+    .middle-content-gia h1{
+      font-size: 43px;
+    }
+
+    .middle-content-gia{
+      top: 4%;
+    }
+
+    .middle-content-guest{
+      top: 18%;
+    }
+
+    .topicos-small-guest{
+      margin: 0!important;
+    }
+
+    .middle-content-smart p{
+      margin: 80px 0;
+    }
+
+    .middle-content-magoo{
+      top: 15%;
+    }
+}
+
+#MapsBox img {
+    width: 100%;
+}
+
+@media (max-width: 1366px){
+
+  .year-box{
+      top: 47%;
+  }
+
+  .container-intro{
+    top: 17%;
+  }
+
+}
+
+@media (max-width: 1280px){
+
+    .sidebar.sidebar-right.sidebar-open{
+        width: 470px;
+    }
+
+    .form-contato-box{
+        margin: 20px 0px;
+    }
+
+    .dedicacao-section-box{
+        padding-top: 150px;
+        padding-bottom: 150px;
+    }
+
+    .timeline {
+      padding: 700px 0;
+    }
+
+    .container-intro{
+      top: 12%;
+    }
+
+    .year-box{
+      top: 45%;
+    }
+
+    .title-form-box h3{
+        font-size: 42px;
+        margin: 20px 0;
+    }
+
+    .btn-form{
+        margin-bottom: 0px;
+    }
+
+    #googlemaps { 
+      height: 685px;
+    }
+
+    .middle-content-wifi-box{
+      min-height: 522px;
+    }
+
+    .text-content-wifi-box p{
+      font-size: 22px;
+      max-width: 92%;
+    }
+
+    .title-topico-box h5{
+      font-size: 20px;
+      margin-top: 20px;
+    }
+
+    .text-topico-box p{
+      font-size: 14px;
+    }
+
+    .text-topico-box p{
+      padding: 0 18px;
+    }
+
+    .topicos-big{
+      padding-top: 40px;
+    }
+
+    .topicos-small{
+      padding-top: 20px;
+    }
+
+    .topicos-small-intern .text-topico-box p{
+      padding: 0 40px;
+    }
+
+    .topicos-small{
+      margin: 0 40px!important;
+      padding-bottom: 20px;
+    }
+
+    .middle-content-gia p{
+      font-size: 18px;
+      max-width: 84%;
+      margin-top: 30px;
+      margin-bottom: 30px;
+    }
+
+    .middle-content-gia h1{
+      font-size: 38px;
+    }
+
+    .middle-content-smart p{
+      margin: 80px 0;
+    }
+
+    .middle-content-gia{
+      top: 3%;
+    }
+
+    .middle-content-magoo{
+      top: 15%;
+    }
+
+    .middle-content-magoo p{
+      margin: 50px 0;
+    }
+
+    .middle-content-guest{
+      top: 14%;
+    }
+}
+
+@media (max-width: 768px){
+
+   body, html{
+    overflow: scroll!important;
+   }
+
+   .title-intro-box h2{
+    font-size: 30px;
+   }
+
+   .wifi-definicao-section-box,
+   .bottom-align{
+    position: initial;
+   } 
+
+   .title-content-wifi-box h1{
+    font-size: 40px;
+    text-align: center;
+   }
+
+   .middle-content-wifi-box {
+      min-height: 300px;
+   }
+
+   .text-content-wifi-box p{
+      max-width: 100%;
+      text-align: center;
+      padding: 0 80px;
+   }
+
+   .wifi-topicos-section-box{
+    height: 404px!important;
+   }
+
+   .text-topico-box p{
+    padding: 0 138px;
+   }
+
+   .topicos{
+    height: 300px;
+   }
+
+   .block-title{
+    display: inline;
+   }
+
+   .middle-content-gia h1{
+    font-size: 35px;
+   }
+
+   .middle-content-gia-box{
+    min-height: 170px;
+   }
+
+   .topicos-smart{
+      height: 270px;  
+   } 
+}
+
+@media (max-width: 767px){
+
+  body, html{
+    overflow: scroll!important;
+   }
+
+  /* Backgrounds */
+
+  .intro-section-box-wifi{
+    background-image: url('../img/wifi/bg-wifi-mobile.jpg')!important;
+  }
+
+  /* .intro-section-box-gia{
+    background-image: url('../img/gia/bg-gia-mobile.jpg')!important;
+  } */
+
+  .intro-section-box-guest{
+    background-image: url('../img/guest/bg-guest-mobile.jpg')!important;
+  }
+
+  .intro-section-box-smart{
+    background-image: url('../img/smart/bg-smart-mobile.jpg')!important;
+  }
+
+  .intro-section-box-magoo{
+    background-image: url('../img/magoo/bg-magoo-mobile.jpg')!important;
+  }
+
+  .wifi-topicos-section-box,
+  .gia-topicos-section-box,
+  .guest-topicos-section-box,
+  .smart-topicos-section-box,
+  .magoo-topicos-section-box{
+    background-attachment: initial;
+  }
+
+  .title-intro-box h1{
+    font-size: 28px;
+  }
+
+  .logo-box{
+    margin-bottom: 10px;
+  }
+
+  .logo-box img{
+    max-width: 75%;
+  }
+
+  .logo-box-guest img{
+    max-width: 85%;
+    margin-top: 30px;
+  }
+
+  .logo-box-magoo img{
+    max-width: 49%;
+  }
+
+  .logo-box-gia img{
+    max-width: 29%;
+  }
+
+  .btn-topo{
+    width: 255px;
+    font-size: 16px;
+    height: 55px;
+  }
+
+  .navbar-nav>li>a, .title-subitem{
+    font-size: 18px;
+    padding: 12px 10px;
+  }
+
+  .list-produtos-menu>li>a{
+    font-size: 18px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+  }
+
+  .title-subitem{
+    padding-bottom: 18px;
+  }
+
+  .area-cliente{
+    padding-bottom: 30px!important;
+  }
+
+  .modal-dialog{
+      width: 80%;
+  }
+
+  .close-menu{
+    padding-right: 20px;
+  }
+
+  .navbar-nav{
+    margin-right:  30px;
+    margin-left: 30px;
+    padding-top: 80px;
+  }
+
+  .redes-list-box-header{
+    margin: 0 30px;
+  }
+
+  .idioma-list-box-header{
+    margin: 20px 30px;
+  }
+
+  .idioma, .idioma a{
+    font-size: 17px;
+  }
+
+  .navbar-brand{
+    padding: 15px 15px;
+  }
+
+  .navbar-toggle{
+    margin-top: 30px;
+  }
+
+  .title-box h2{
+    font-size: 30px;
+  }
+
+  .title-box{
+    margin-top: 0px;
+    margin-bottom: 0px;
+  }
+
+  .links-filter-box{
+    margin-top: 25px;
+    margin-bottom:  35px;
+  }
+
+  .link{
+    padding: 0 9px;
+  }
+
+  .link a{
+    font-size: 15px;
+    color: #c0bdc9;
+  }
+
+  .active a{
+    color: #c0bdc9;
+  }
+
+  .dedicacao-section-box,
+  .numeros-section-box{
+    /*padding-top: 75px;*/
+    padding-bottom: 50px;
+  }
+
+  .title-box h2 span{
+    display: block;
+  }
+
+  .timeline-mobile{
+    margin-top: 50px;
+  }
+
+  .numeros-mobile{
+    margin-top: 45px;
+  }
+
+  .carousel-caption h3{
+    font-size: 24px;
+    padding: 30px 0px 10px;
+  }
+
+  .carousel-caption p{
+    font-size: 14px;
+  }
+
+  .contato-section-box{
+    background: url('../img/home/bg-contato-mobile.jpg') 0 0 no-repeat;
+    background-size: cover;
+  }
+
+  .title-form-box h3{
+    text-align: center;
+    font-size: 30px;
+    margin: 40px 0 50px 0;
+  }
+
+  .form-contato-box{
+    margin: 0;
+    padding: 30px 20px 60px 20px;
+    background: none;
+  }
+
+  .btn-form{
+    width: 100%;
+  }
+
+  #MapsBox{
+    padding: 0;
+  }
+
+  .logo-footer-box{
+    border:  none;
+  }
+
+  .infos-footer-box{
+    padding:  0;
+    text-align: center;
+  }
+
+  .footer-section-box{
+    padding: 50px 0;
+  }
+
+  .tel-box{
+    padding-top: 20px;
+  }
+
+  .endereco-box{
+    margin:  10px 0;
+  }
+
+  .redes-list, .idioma-list{
+    padding: 0;
+  }
+
+  .carousel-indicators li{
+    margin: 0 7px;
+  }
+
+  .carousel-indicators .active{
+    margin: 0 7px;
+  }
+
+  .container-intro{
+    padding-top:  50px;
+    position: initial;
+  }
+
+  .btn-intro-box{
+    padding-bottom: 20px;
+    margin-top: 10px;
+  }
+
+  /* .intro-section-box{
+    height: 100%!important;
+  } 
+
+  .timeline-section-box {
+    padding-top: 60px;
+    padding-bottom: 60px;
+}*/
+
+  .container-intro{
+    padding-top:  50px;
+  }
+
+  .container-intro-interna{
+    padding-bottom: 70px;
+    padding-top: 80px;
+  }
+
+  .title-intro-box h2{
+    font-size: 19px;
+  }
+
+  .title-content-wifi-box h1{
+    font-size: 30px;
+  }
+
+  .middle-content-wifi-box{
+    min-height: initial;
+  }
+
+  .middle-content-wifi{
+    position: initial;
+  }
+
+  .text-content-wifi-box p{
+    padding: 0 15px;
+    font-size: 15px;
+    margin: 10px 0 40px 0;
+  }
+
+  .wifi-topicos-section-box{
+    height: 504px!important;
+  }
+
+  .text-topico-box p{
+    padding: 0 18px;
+  }
+
+  .topicos{
+    height: 400px;
+  }
+
+  .topicos-gia{
+    height: 270px;  
+  } 
+
+  .topicos-smart{
+    height: 270px;  
+  } 
+
+  .carousel-indicators-wifi{
+    left: 42%;
+    width: 70%;
+  }
+
+  .intro-section-box-interna .logo-box{
+    margin-bottom: 15px;
+  }
+
+  .intro-section-box-interna .btn-intro-box{
+    margin-top: 30px;
+  }
+
+  .middle-content-gia h1{
+    font-size: 23px;
+    margin-top: 60px;
+  }
+
+  .middle-content-gia-box{
+    min-height: initial;
+  }
+
+  .img-content-wifi-box{
+    padding: 20px 0;
+  }
+
+  .middle-content-gia{
+    position: initial;
+  }
+
+  .topicos-guest{
+    height: 320px;  
+  }
+
+  .center-align{
+    position: initial;
+    transform: none;
+  }
+
+}
+
+@media (max-width: 320px){
+  /* .intro-section-box-gia .container-intro-interna{
+    padding-top: 20px;
+  }
+
+  .intro-section-box-magoo .container-intro-interna{
+    padding-top: 50px;
+  } */
+
+  .title-intro-box h1{
+    font-size: 25px;
+  }
+}

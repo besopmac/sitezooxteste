@@ -1,0 +1,28 @@
+@media screen and (max-width: 991px) {
+  .logo-footer-box img{
+    margin: 0;
+    padding-bottom: 30px;
+  }
+
+  .scaleup img{
+    margin: auto;
+    padding-bottom: 30px;
+  }
+
+  .rede1{
+    display: none;  
+  }
+
+  .rede2{
+    margin-top: 20px;
+  }
+
+}
+
+@media screen and (min-width: 991px) {
+  .rede2{
+    display: none;  
+    margin-top: 20px;
+  }
+
+}

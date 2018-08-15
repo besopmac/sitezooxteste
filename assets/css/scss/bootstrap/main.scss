@@ -1,0 +1,66 @@
+/*-----------------------------------------------*/
+/* -------- CSS - LITTLE-TREX STYLESHEET ------- */
+/*-----------------------------------------------*/
+
+/* Fontes */
+
+@font-face {
+    font-family: 'Avenir';
+    src: url('Avenir-Black.eot');
+    src: local('Avenir Black'), local('Avenir-Black'),
+        url('../fonts/avenir/Avenir-Black.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/avenir/Avenir-Black.woff') format('woff'),
+        url('../fonts/avenir/Avenir-Black.ttf') format('truetype'),
+        url('../fonts/avenir/Avenir-Black.svg#Avenir-Black') format('svg');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Avenir';
+    src: url('Avenir-Light.eot');
+    src: local('Avenir Light'), local('Avenir-Light'),
+        url('../fonts/avenir/Avenir-Light.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/avenir/Avenir-Light.woff') format('woff'),
+        url('../fonts/avenir/Avenir-Light.ttf') format('truetype'),
+        url('../fonts/avenir/Avenir-Light.svg#Avenir-Light') format('svg');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Avenir';
+    src: url('Avenir-Heavy.eot');
+    src: local('Avenir Heavy'), local('Avenir-Heavy'),
+        url('../fonts/avenir/Avenir-Heavy.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/avenir/Avenir-Heavy.woff') format('woff'),
+        url('../fonts/avenir/Avenir-Heavy.ttf') format('truetype'),
+        url('../fonts/avenir/Avenir-Heavy.svg#Avenir-Heavy') format('svg');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Avenir';
+    src: url('Avenir-Medium.eot');
+    src: local('Avenir Medium'), local('Avenir-Medium'),
+        url('../fonts/avenir/Avenir-Medium.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/avenir/Avenir-Medium.woff') format('woff'),
+        url('../fonts/avenir/Avenir-Medium.ttf') format('truetype'),
+        url('../fonts/avenir/Avenir-Medium.svg#Avenir-Medium') format('svg');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Avenir Next Demi';
+    src: url('AvenirNext-DemiBold.eot');
+    src: local('Avenir Next Demi Bold'), local('AvenirNext-DemiBold'),
+        url('../fonts/avenir-next/AvenirNext-DemiBold.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/avenir-next/AvenirNext-DemiBold.woff') format('woff'),
+        url('../fonts/avenir-next/AvenirNext-DemiBold.ttf') format('truetype'),
+        url('../fonts/avenir-next/AvenirNext-DemiBold.svg#AvenirNext-DemiBold') format('svg');
+    font-weight: 600;
+    font-style: normal;
+}
+
