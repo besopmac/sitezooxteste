@@ -1,6 +1,4 @@
-$font{
-	font-size: 150px;
-}
+$font: 150px;
 
 @mixin titulo{
 	font-size: $font;
